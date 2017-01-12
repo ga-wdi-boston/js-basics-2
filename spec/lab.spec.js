@@ -13,7 +13,7 @@ const paragraph =
 
 const collFuncs = require('../lib/lab.js');
 
-xdescribe('collections lab', () => {
+describe('collections lab', () => {
 
   describe('normalized words', () => {
 
